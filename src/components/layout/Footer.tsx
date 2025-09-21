@@ -43,7 +43,7 @@ const Footer: React.FC = () => {
             <div className="col-span-1 md:col-span-2 lg:col-span-1">
               <Link to="/" className="flex items-center mb-4">
                 <Leaf className="h-6 w-6 text-primary-500 mr-2" />
-                <span className="font-bold text-lg text-gray-900">BioDegSim</span>
+                <span className="font-bold text-lg text-gray-900">BioDeSim</span>
               </Link>
               <p className="text-gray-600 mb-6">
                 An interactive 3D simulation platform exploring the complete lifecycle of biodegradable plastics and their environmental impact.
