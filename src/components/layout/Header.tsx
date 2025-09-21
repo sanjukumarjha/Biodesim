@@ -49,7 +49,7 @@ const Header: React.FC = () => {
           {/* Logo */}
           <NavLink to="/" className="flex items-center">
             <Leaf className="h-8 w-8 text-primary-500 mr-2" />
-            <span className="font-bold text-xl text-gray-900">BioDegSim</span>
+            <span className="font-bold text-xl text-gray-900">BioDeSim</span>
           </NavLink>
 
           {/* Desktop Navigation */}
